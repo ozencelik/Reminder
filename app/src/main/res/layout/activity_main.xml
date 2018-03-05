@@ -24,7 +24,7 @@
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
-        android:text="Button"
+        android:background="@drawable/microphone"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -38,8 +38,8 @@
         android:layout_margin="@dimen/fab_margin"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
+        android:backgroundTint="@color/aluminum"
         android:src="@drawable/arrow"
-        android:color="@color/aluminum"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
